@@ -1,0 +1,3 @@
+﻿hostname,ip_address,username,password,ssh_port
+csr-01,172.20.10.10,cisco,cisco,2022
+csr-02,172.20.10.11,cisco,cisco123,22

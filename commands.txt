@@ -1,0 +1,12 @@
+terminal length 0
+show clock
+show version
+show platform
+show interface description
+show ip interface brief
+show running-config
+show environment
+show inventory
+show logging
+show bootvar
+show ip route
