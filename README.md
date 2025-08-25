@@ -1,4 +1,4 @@
-# a can be modified network automation tool with python
+# a network automation tool with python can be modified
 this is open source network automation tool for fetch data router with different username / password and custom ssh port (example your router/switch not using ssh port default 22) 
 <img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/4726cb7d-abf8-408f-b271-55a3e3e43a76" />
 
